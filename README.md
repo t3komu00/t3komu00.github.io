@@ -1,4 +1,4 @@
-# t3komu00.github.io
+
 # Welcome to My Nature Photography Portfolio
 
 Explore the beauty of nature through my lens. Here, you'll find a collection of my favorite nature photographs.
@@ -13,8 +13,6 @@ Thank you for visiting!
 
 ---
 
-**Author:** [Nipuni Kodikara]  
-**Date:** 2024-09-22
 
 # Nature Photography Gallery
 
@@ -35,12 +33,10 @@ Thank you for visiting!
 
 ---
 
-**Author:** [Nipuni Kodikara]  
-**Date:** 2024-09-22
 
 # About Me
 
-I’m [Your Name], a passionate nature photographer dedicated to capturing the wonders of the natural world. My journey began with a simple camera and a deep appreciation for the outdoors.
+I’m Nipuni Kodikara, a passionate nature photographer dedicated to capturing the wonders of the natural world. My journey began with a simple camera and a deep appreciation for the outdoors.
 
 ## My Inspiration
 
@@ -48,21 +44,17 @@ Nature's beauty and the stories it tells inspire my work. From sweeping landscap
 
 ---
 
-**Author:** [Your Name]  
-**Date:** YYYY-MM-DD
 
 # Contact Me
 
 I’d love to hear from you! Whether you have questions, feedback, or collaboration ideas, feel free to reach out through the following channels:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/yourprofile)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/yourprofile)
+- **Email:** [your.email@example.com](mailto:NipuniKodikara.email@gmail.com)
+- **Instagram:** [Your Instagram Profile](https://www.instagram.com/Nipuni)
 
 Looking forward to connecting with you!
 
 ---
-
-**Author:** [Your Name]  
-**Date:** YYYY-MM-DD
+**Author:** [Nipuni Kodikara]  
+**Date:** 2024-09-22
 
